@@ -295,7 +295,7 @@ Then click“Replace the files in the destination”.
 
 ---
 
-##  Arduino C library and set up the ESP32 environment:
+## Arduino C library and set up the ESP32 environment:
 
 The Arduino C is in the folder Arduino Libraries, and you can refer to Preparation before class for C(Raspberry Pi) to set the ESP32 environment.
 
