@@ -537,7 +537,7 @@ click“libraries” file ![](media/630636db590e92c4969f89967124f96f.png)from th
 
 ---
 
-# Projects
+## Projects
 
 There are 37 sensors and modules in this kit. Next, we will analyze and introduce how they work step by step. Interface sensors with the ESP32 board and its expansion board, run test codes and observe experimental phenomenon.
 
@@ -5941,7 +5941,7 @@ display ![](media/320b86323631e095db330a22ca97bad7.png), the ambient humidity is
 
 
 
-# Resources
+## Resources
 
 [https://fs.Keyestudio.com/KS5005-5006](https://fs.Keyestudio.com/KS5005-5006)
 
