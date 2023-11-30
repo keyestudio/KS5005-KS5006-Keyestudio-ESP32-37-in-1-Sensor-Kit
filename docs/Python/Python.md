@@ -1,4 +1,4 @@
-# Python
+# Getting started with Python
 
 ## Preparation for Python(Windows)
 
@@ -351,7 +351,7 @@ Disconnect the USB cable and connect it, you can see the effect of the LED flash
 
 ![](media/9eac7d05566dd0a8553f3b10fc7bb7c4.png)
 
-# Python Projects
+# Projects
 
 There are 37 sensors and modules in this kit. Next, we will analyze and introduce how they work step by step. Interface sensors with the ESP32  board and its expansion board, run test codes and observe experimental phenomenon.
 

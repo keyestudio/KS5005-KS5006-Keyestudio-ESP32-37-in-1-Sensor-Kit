@@ -1,4 +1,4 @@
-# Raspberry Pi
+# Getting started with Raspberry Pi C language
 
 Raspberry Pi is a card computer whose official system is Raspberry Pi OS, and can be installed on the Raspberry Pi, such as: ubuntu, Windows IoT. Raspberry Pi can be used as a personal server, performing camera monitoring and recognition, as well as voice interaction by connecting a camera and a voice interactive assistant. Also, Raspberry Pi leads out 40Pin pins that can be connected to various sensors and control LEDs, motors, etc. This can be used to make a robot with a Raspberry Pi.
 
@@ -537,7 +537,7 @@ click“libraries” file ![](media/630636db590e92c4969f89967124f96f.png)from th
 
 ---
 
-# Raspberry pi Projects
+# Projects
 
 There are 37 sensors and modules in this kit. Next, we will analyze and introduce how they work step by step. Interface sensors with the ESP32 board and its expansion board, run test codes and observe experimental phenomenon.
 

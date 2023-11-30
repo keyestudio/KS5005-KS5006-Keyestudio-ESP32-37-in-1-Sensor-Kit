@@ -1,4 +1,4 @@
-# Arduino
+# Getting started with Arduino
 
 ## Windows System
 
@@ -305,7 +305,7 @@ If the Arduino C is added, just skip this part.
 
 ![](media/871f72fa9c185ff7070c6ccbaedfe95f.png)
 
-# Arduino Projects
+# Projects
 
 There are 37 sensors and modules in this kit. Next, we will analyze and introduce how they work step by step. Interface sensors with the ESP32 board and its expansion board, run test codes and observe experimental phenomenon.
 
