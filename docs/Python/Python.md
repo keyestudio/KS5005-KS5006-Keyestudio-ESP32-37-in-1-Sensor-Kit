@@ -1,4 +1,4 @@
-# Getting started with Python
+# Python tutorial
 
 ## Preparation for Python(Windows)
 
