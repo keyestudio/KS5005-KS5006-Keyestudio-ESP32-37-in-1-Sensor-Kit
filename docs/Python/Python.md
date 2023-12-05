@@ -649,7 +649,7 @@ except:
 
 #### **Test Result**
 
-Wire up and power on and click <img src="media/wps246.jpg" alt="img" style="zoom:67%;" />“Run current script”, the code starts executing, we will see that the LED on the module gradually gets dimmer then brighter, cyclically, like human breathe. Press“Ctrl+C”or click![img](media/wps247.jpg)“Stop/Restart backend”to exit the program.
+Wire up and power on and click ![](media/wps246.jpg)“Run current script”, the code starts executing, we will see that the LED on the module gradually gets dimmer then brighter, cyclically, like human breathe. Press“Ctrl+C”or click![img](media/wps247.jpg)“Stop/Restart backend”to exit the program.
 
 ### Project 6: RGB Module
 
@@ -1134,11 +1134,21 @@ After the disappearance of the outer magnetic reed because of their flexibility 
 <table class="colwidths-auto docutils align-default">
 <tbody>
 <tr class="odd">
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5005-KS5006-Keyestudio-ESP32-37-in-1-Sensor-Kit-Python/master/media/c9020c6015e55923afec197ab9d03fae.png" style="width:1.05278in;height:0.48819in" alt="4" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5005-KS5006-Keyestudio-ESP32-37-in-1-Sensor-Kit-Python/master/media/6d96c844b0260ad712130945d692a7a2.jpeg" style="width:1.34444in;height:1.02986in" alt="ks0465-1" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5005-KS5006-Keyestudio-ESP32-37-in-1-Sensor-Kit-Python/master/media/92c44afcc82bb13a14e8438646670cc6.png" style="width:0.66875in;height:0.88681in" alt="干簧管模块" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5005-KS5006-Keyestudio-ESP32-37-in-1-Sensor-Kit-Python/master/media/0d81e07a0f67700c5a396fc7e1e614e1.jpeg" style="width:0.98958in;height:0.36042in" alt="3p线" /></td>
-<td><img src="https://raw.githubusercontent.com/keyestudio/KS5005-KS5006-Keyestudio-ESP32-37-in-1-Sensor-Kit-Python/master/media/edbfec59fe015bd9987e4b4d542b466d.png" style="width:0.8875in;height:0.47569in" alt="USB线" /></td>
+<td>
+
+![](media/c9020c6015e55923afec197ab9d03fae.png)</td>
+<td>
+
+![](media/6d96c844b0260ad712130945d692a7a2.jpeg)</td>
+<td>
+
+![](media/92c44afcc82bb13a14e8438646670cc6.png)</td>
+<td>
+
+![](media/0d81e07a0f67700c5a396fc7e1e614e1.jpeg)</td>
+<td>
+
+![](media/edbfec59fe015bd9987e4b4d542b466d.png)</td>
 </tr>
 <tr class="even">
 <td>ESP32 Board*1</td>
